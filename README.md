@@ -6,7 +6,7 @@ openFrameworksを利用してcsgjs_modelを可視化する関数.
 openFrameworksを用意する.  
 本プロジェクトのrootディレクトリに`openFrameworks`で配置.
 ```bash
-git@github.com:openframeworks/openFrameworks.git openframeworks
+git clone https://github.com/icchi-h/plot_csgjs-cpp_model.git openframeworks
 ```
 
 ## Usage

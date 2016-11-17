@@ -2,6 +2,8 @@
 openFrameworksを利用してcsgjs_modelを可視化する関数.  
 **※For Mac**
 
+![Demo](./asset/demo_csgjs-cpp.gif)
+
 ## Installation
 openFrameworksを用意する.  
 本プロジェクトのrootディレクトリにディレクトリ名`openFrameworks`で配置.

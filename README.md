@@ -2,7 +2,7 @@
 openFrameworksを利用してcsgjs_modelを可視化する関数.  
 **※For Mac**
 
-![Demo](./asset/demo_csgjs-cpp.gif)
+<img src="./asset/demo_csgjs-cpp.gif" width=400>
 
 ## Installation
 openFrameworksを用意する.  
